@@ -1,4 +1,4 @@
-# Restaurant Management System 
+# GoRestoTech: Restaurant Management System 
 The Restaurant Management System is a web application built using Go programming language, MongoDB as the database, and JWT (JSON Web Tokens) for user authentication. The system provides functionalities for managing users, food items, menus, tables, orders, and invoices. Users can register, login, and perform various operations related to restaurant management.
 
 ## Owner Information
